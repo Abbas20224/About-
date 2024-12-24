@@ -1,11 +1,11 @@
-# About-Me
+# About Me
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>User Profile Card</title>
-  <style>
-    body {
+  <style>body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
     margin: 0;
@@ -82,6 +82,7 @@
   .contact .whatsapp-btn:hover {
     background-color: #1ebe5b;
   }
+
   </style>
 </head>
 <body>
@@ -100,12 +101,12 @@
         Feel free to modify it further to suit your style!
     </p>
     <div class="social-icons">
-      <a href="https://www.instagram.com/abbas_abdul21/profilecard/?igsh=MTd1MWlzNHhzM2hhcQ"><img src="inster.png">
-      <a href="https://snapchat.com/t/w0VTrEql"><img src="snap.jpg">
-      <a href="https://x.com/_abbas_abdul21?s=21"><img src="x.png">
+      <a href="#"><img src="inster.png" alt="https://www.instagram.com/abbas_abdul21/profilecard/?igsh=MTd1MWlzNHhzM2hhcQ=="></a>
+      <a href="#"><img src="snap.jpg" alt="https://snapchat.com/t/w0VTrEql"></a>
+      <a href="#"><img src="x.png" alt="https://x.com/_abbas_abdul21?s=21"></a>
     </div>
     <div class="contact">
-      <a href="+2348124304741" class="whatsapp-btn" alt="+2348124304741">Contact me on WhatsApp</a>
+      <a href="#" class="whatsapp-btn" alt="+2348124304741">Contact me on WhatsApp</a>
     </div>
   </div>
 </body>
