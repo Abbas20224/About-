@@ -1,5 +1,4 @@
-# About-me
-<!DOCTYPE html>
+# About-Me
 <html lang="en">
 <head>
   <meta charset="UTF-8">
