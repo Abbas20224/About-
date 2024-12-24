@@ -105,7 +105,7 @@
       <a href="https://x.com/_abbas_abdul21?s=21"><img src="x.png" alt=""></a>
     </div>
     <div class="contact">
-      <a href="#" class="whatsapp-btn" alt="+2348124304741">Contact me on WhatsApp</a>
+      <a href="+2348124304741" class="whatsapp-btn" alt="">Contact me on WhatsApp</a>
     </div>
   </div>
 </body>
