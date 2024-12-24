@@ -101,7 +101,7 @@
     </p>
     <div class="social-icons">
       <a href="https://www.instagram.com/abbas_abdul21/profilecard/?igsh=MTd1MWlzNHhzM2hhcQ"><img src="inster.png">
-      <a href=""https://snapchat.com/t/w0VTrEql""><img src="snap.jpg">
+      <a href="https://snapchat.com/t/w0VTrEql"><img src="snap.jpg">
       <a href="https://x.com/_abbas_abdul21?s=21"><img src="x.png">
     </div>
     <div class="contact">
