@@ -1,5 +1,4 @@
 # About Me
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -101,9 +100,9 @@
         Feel free to modify it further to suit your style!
     </p>
     <div class="social-icons">
-      <a href="#"><img src="inster.png" alt="https://www.instagram.com/abbas_abdul21/profilecard/?igsh=MTd1MWlzNHhzM2hhcQ=="></a>
-      <a href="#"><img src="snap.jpg" alt="https://snapchat.com/t/w0VTrEql"></a>
-      <a href="#"><img src="x.png" alt="https://x.com/_abbas_abdul21?s=21"></a>
+      <a href="https://www.instagram.com/abbas_abdul21/profilecard/?igsh=MTd1MWlzNHhzM2hhcQ=="><img src="inster.png" alt=""></a>
+      <a href="https://snapchat.com/t/w0VTrEql"><img src="snap.jpg" alt=""></a>
+      <a href="https://x.com/_abbas_abdul21?s=21"><img src="x.png" alt=""></a>
     </div>
     <div class="contact">
       <a href="#" class="whatsapp-btn" alt="+2348124304741">Contact me on WhatsApp</a>
